@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "23758A64-47B8-4FA3-81F4-FA329785DF60"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7BB6B38-DD95-412C-A8C0-EFC9DDB4D847"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RPCrypto/Utilities/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "download(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7BB6B38-DD95-412C-A8C0-EFC9DDB4D847 - f2d5c046bf3368a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static RPCrypto.NetworkingManager.download(url: Foundation.URL) -&gt; Combine.AnyPublisher&lt;Foundation.Data, Swift.Error&gt;"
+                  moduleName = "RPCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/resatpekgozlu/Desktop/SwiftFul/RPCrypto/RPCrypto/Utilities/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "A7BB6B38-DD95-412C-A8C0-EFC9DDB4D847 - 131f3bc1746650ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data in static RPCrypto.NetworkingManager.download(url: Foundation.URL) -&gt; Combine.AnyPublisher&lt;Foundation.Data, Swift.Error&gt;"
+                  moduleName = "RPCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/resatpekgozlu/Desktop/SwiftFul/RPCrypto/RPCrypto/Utilities/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
